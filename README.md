@@ -33,4 +33,4 @@ The script calculates and displays the simple interest and the total amount.
 ## License
 
 This project is licensed under the Apache License 2.0.
-2022 XYZ, Inc.
+2023 XYZ, Inc.
